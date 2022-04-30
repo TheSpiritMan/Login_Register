@@ -6,8 +6,8 @@
 
 
 Basily, in this application, there are two main functionality.They are:
-          1: Registration 
-          2: Login
+         - Registration 
+         - Login
 
 
 Here the credentials used during Login is retrieved from database which was taken from user during the Registration process.
