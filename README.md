@@ -5,9 +5,10 @@
 
 
 
-Basily, in this application, there are two main functionality.They are:
-         - Registration 
-         - Login
+Basily, in this application, there are two main functionality.
+They are:
+- Registration 
+- Login
 
 
 Here the credentials used during Login is retrieved from database which was taken from user during the Registration process.
