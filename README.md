@@ -1,7 +1,7 @@
 # Login_Register
-#This is my first ever project. It is build using Java Programming Language which is popular OOP language.
-#The advanatage of using Java as a Programming Language is that it is platform independent which means the source code of the program can be same throughtout the different system. But the tool used to convert it into object code must plaform dependent.
-#Using Java, developer can develop the Program more quickly for many platform at a time.
+- This is my first ever project. It is build using Java Programming Language which is popular OOP language.
+- The advanatage of using Java as a Programming Language is that it is platform independent which means the source code of the program can be same throughtout the        different system. But the tool used to convert it into object code must plaform dependent.
+- Using Java, developer can develop the Program more quickly for many platform at a time.
 
 
 
